@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    color: #0F0;
+    font-family: verdana;
+}
+div{
+    width: 30px;
+    height: 30px;
+    transition-duration: 0.1s;
+}
+
+
